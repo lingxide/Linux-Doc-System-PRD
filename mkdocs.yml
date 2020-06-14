@@ -1,3 +1,14 @@
-site_name: LC Linux Doc System PRD
+site_name: IMA-LC Linux Doc System PRD
 theme: readthedocs
+repo_url: https://github.com/lingxide/Linux-Doc-System-PRD
+site_description: A Knowledge Base System of Unixverse
+site_author: LC
+copyright: BY-NC-ND
+nav:
+- Home: 'index.md'
+- How To's:
+  - 'How To Obtain File Creation Date with debugfs': 'how_to/fc-date.md'
+  - 'How To Change Permission of File OR Directory with Batch': 'how_to/chmod-batch.md'
+- About:
+  - 'License': 'license.md'
 
