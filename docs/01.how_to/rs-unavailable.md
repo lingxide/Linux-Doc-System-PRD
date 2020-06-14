@@ -27,7 +27,7 @@ Compare to kernel.pid_max:
 
 ### nproc
 
-Refer to [Amending Maximum Number of Processes in RHEL](01.how_to/nproc.md)
+Refer to [Amending Maximum Number of Processes in RHEL](nproc.md)
 
 Set `/etc/security/limits.conf`
 ```
