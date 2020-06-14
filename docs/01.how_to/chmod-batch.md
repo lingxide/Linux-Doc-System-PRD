@@ -1,3 +1,5 @@
+# How To Change Permission of File OR Directory in Batch
+
 ## Batch Operate with Files
 
 `find -type f -exec chmod 644 {} \;  `

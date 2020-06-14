@@ -1,4 +1,6 @@
-# BY-NC-ND
+# License
+
+## BY-NC-ND
 
 ![BY-NC-ND](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
