@@ -4,6 +4,10 @@
 
 Mostly you will find Linux-related article in this KBS.
 
+As a unix admin I faced lots of tricky issues in my daily work, thanks to whom I listed in credit, most of them get resolved properly. In return I decided to sort it out and publish them into this KBS.
+
+I have initiated a topic - **How To's**, to explain some workaround with specific issues. Another topic called **Baseline** is in my backlog.
+
 The article you see is selected and converted from my private KBS system, making sure a clear and short explaination of some tricky issues.
 
 It would be my pleasure if you found something helps.
