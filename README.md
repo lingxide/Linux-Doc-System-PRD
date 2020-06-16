@@ -2,7 +2,7 @@
 
 ## Attention
 
-This is a code repo of [doc.iam.lc](https://doc.iam.lc). You should only visit the main portal for document searching and rais PR here in this repo in case of you have any supplyment.
+This is a code repo of [doc.iam.lc](https://doc.iam.lc). You should only visit the main portal for document searching and raising PR in this repo in case of you have any supplyment.
 
 You are also encouraged to raise an issue ticket if you found anything wrong.
 
