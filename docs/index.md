@@ -1,4 +1,4 @@
-# Welcome to IAM-LC Public Knowledge Base System
+# Welcome to LC's Public Knowledge Base System
 
 ## What would you find in this KBS
 
@@ -8,6 +8,8 @@ As a unix admin I faced lots of tricky issues in my daily work, thanks to whom I
 
 I have initiated a topic - **How To's**, to explain some workaround with specific issues. Another topic called **Baseline** is in my backlog.
 
+Another topie - **Cases** is being roll out soon. It will only focus on extremely rare cases that you cannot find any answer from Internet or Vendor support.
+
 The article you see is selected and converted from my private KBS system, making sure a clear and short explaination of some tricky issues.
 
 It would be my pleasure if you found something helps.
@@ -16,7 +18,7 @@ It would be my pleasure if you found something helps.
 
 As less and less update from my blog, due to terribly editor of WordPress, I moved most of creatives to my private KBS.
 
-Some article of my private KBS may contains sensetive data, including project information and business secret hence a desensitization process is made to valuable articles, and being reformatting, I will public them there.
+Some article of my private KBS may contains sensetive data, including project information and business confidential hence a desensitization process is made to valuable articles, and being reformatting, I will public them there.
 
 ## Credit
 
@@ -42,4 +44,4 @@ In order to prevent any misunderstanding of derivatives from my articles please 
 
 [LC](https://iam.lc/)
 
-WFH Accepted. [Drop me a mail](sendto:hi@iam.lc) if you are hiring!
+[Drop me a mail](sendto:hi@iam.lc) for a coffee chat!
