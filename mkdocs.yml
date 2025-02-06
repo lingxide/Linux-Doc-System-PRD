@@ -2,7 +2,7 @@ site_name: LC's Linux Doc System
 theme: readthedocs
 repo_url: https://github.com/lingxide/Linux-Doc-System-PRD
 site_description: A Knowledge Base System of Unixverse
-site_author: LC
+site_author: Lynx
 copyright: CC 4.0 Intl. BY-NC-ND
 #nav:
 #- Home: 'index.md'
